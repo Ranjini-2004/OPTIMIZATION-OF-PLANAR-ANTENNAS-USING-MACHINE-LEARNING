@@ -10,16 +10,16 @@ The goal is to reduce development time and improve design accuracy by leveraging
 
 This repository contains the key simulation results and fabrication/testing images:
 
-| File Name | Description |
-|-----------|-------------|
-| `return_loss_s11_25ghz.jpg` | **Return Loss (S11)** at 25.1 GHz – demonstrates strong resonance with return loss < -10 dB. |
-| `vswr_25ghz.jpg` | **VSWR Plot** at 25.1 GHz – a value of 1.63 shows efficient power transfer. |
-| `gain_3d_25ghz.jpg` | **3D Gain Pattern** – shows the directional radiation and strength at 25.1 GHz. |
-| `efficiency_radiation.jpg` | **Radiation Efficiency** – shows how much input power is effectively radiated (≈ 39.3%). |
-| `efficiency_total.jpg` | **Total Efficiency** – overall antenna efficiency including losses (≈ 36.8%). |
-| `fabricated_front.jpg` | **Fabricated Antenna – Front View** – shows the copper patch layout of the antenna. |
-| `antenna_front_view.jpg` | **Antenna Front View (Design)** – simulation/model view showing the layout before fabrication. |
-| `fabricated_back.jpg` | **Fabricated Antenna – Back View** – ground plane and physical structure of the prototype. |
+| Description                                         | Image                                  |
+|----------------------------------------------------|--------------------------------------|
+| **Return Loss (S11)** at 25.1 GHz – demonstrates strong resonance with return loss < -10 dB. | ![Return Loss S11](return_loss_s11_25ghz.jpg) |
+| **VSWR Plot** at 25.1 GHz – a value of 1.63 shows efficient power transfer. | ![VSWR Plot](vswr_25ghz.jpg)          |
+| **3D Gain Pattern** – shows the directional radiation and strength at 25.1 GHz. | ![3D Gain Pattern](gain_3d_25ghz.jpg)         |
+| **Radiation Efficiency** – shows how much input power is effectively radiated (≈ 39.3%). | ![Radiation Efficiency](efficiency_radiation.jpg) |
+| **Total Efficiency** – overall antenna efficiency including losses (≈ 36.8%). | ![Total Efficiency](efficiency_total.jpg) |
+| **Fabricated Antenna – Front View** – shows the copper patch layout of the antenna. | ![Fabricated Antenna Front](fabricated_front.jpg) |
+| **Antenna Front View (Design)** – simulation/model view showing the layout before fabrication. | ![Antenna Front View](antenna_front_view.jpg) |
+| **Fabricated Antenna – Back View** – ground plane and physical structure of the prototype. | ![Fabricated Antenna Back](fabricated_back.jpg) |
 
 ---
 
@@ -33,7 +33,7 @@ This repository contains the key simulation results and fabrication/testing imag
 
 ## 👥 Contributors
 
-- Ranjini D
+- Ranjini D  
 - Rethina Pradhamesh R  
 - Rithika R  
 - Rogini E  
